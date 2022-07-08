@@ -1,0 +1,6 @@
+setup.py
+src/li_devops_metrics.egg-info/PKG-INFO
+src/li_devops_metrics.egg-info/SOURCES.txt
+src/li_devops_metrics.egg-info/dependency_links.txt
+src/li_devops_metrics.egg-info/requires.txt
+src/li_devops_metrics.egg-info/top_level.txt

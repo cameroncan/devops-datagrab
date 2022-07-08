@@ -1,0 +1,6 @@
+
+[tests]
+pytest
+requests_mock
+pytest-mock
+freezegun
